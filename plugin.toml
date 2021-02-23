@@ -1,0 +1,4 @@
+[plugin]
+description = "dokku wpcli"
+version = "0.1"
+[plugin.config]
